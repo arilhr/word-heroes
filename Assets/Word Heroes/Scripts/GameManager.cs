@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,12 +10,13 @@ public class GameManager : MonoBehaviour
     public string correctWord;
     public string randomedWord;
 
+    public List<AnswerBox> answerBoxList;
     public GameObject answerBoxPrefab;
     public GameObject answerBoxParent;
+    public List<SelectionButton> selectionButtonList;
     public GameObject selectionBoxPrefab;
     public GameObject selectionParent;
     
-
     private void Awake()
     {
         if (instance == null)
@@ -43,14 +45,11 @@ public class GameManager : MonoBehaviour
 
             randomedWord += temp[rand];
             temp = temp.Remove(rand, 1);
-
-            Debug.Log($"{rand}, {randomedWord}, {temp}");
         }
     }
 
     private void SpawnWord()
     {
-        
         for (int i = 0; i < correctWord.Length; i++)
         {
             // spawn answer box
@@ -58,13 +57,17 @@ public class GameManager : MonoBehaviour
             AnswerBox answer = answerObject.GetComponent<AnswerBox>();
             answer.charAnswer = correctWord[i];
             answer.charText.text = string.Empty;
+            answer.isFilled = false;
+            answerBoxList.Add(answer);
 
             // spawn selection
             GameObject selectionObject = Instantiate(selectionBoxPrefab, selectionParent.transform);
             SelectionButton selection = selectionObject.GetComponent<SelectionButton>();
             selection.charSelection = randomedWord[i];
             selection.charText.text = randomedWord[i].ToString();
+            selection.indexButton = i;
+            selectionButtonList.Add(selection);
         }
-        
+
     }
 }

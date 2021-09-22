@@ -1215,8 +1215,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   correctWord: LEAF
   randomedWord: 
+  answerBoxList: []
   answerBoxPrefab: {fileID: 4581034949962126448, guid: 4ded967f489f0df48ac6a51f50598cde, type: 3}
   answerBoxParent: {fileID: 171659955}
+  selectionButtonList: []
   selectionBoxPrefab: {fileID: 4353697065602431413, guid: 33bd3b9044ec6644a824d37ba53feee1, type: 3}
   selectionParent: {fileID: 1449457229}
 --- !u!4 &1201839584
