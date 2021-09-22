@@ -19,6 +19,8 @@ public class SelectionButton : MonoBehaviour
         {
             blankAnswer.FillAnswer(charSelection, indexButton);
             SetButtonActive(false);
+
+            GameManager.instance.CheckIfAnswerBoxAlreadyFilled();
         }
     }
 

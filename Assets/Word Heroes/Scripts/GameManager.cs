@@ -7,8 +7,10 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
+    public QuestionData questions;
     public string correctWord;
     public string randomedWord;
+    private int currentQuestion;
 
     public List<AnswerBox> answerBoxList;
     public GameObject answerBoxPrefab;
@@ -16,6 +18,9 @@ public class GameManager : MonoBehaviour
     public List<SelectionButton> selectionButtonList;
     public GameObject selectionBoxPrefab;
     public GameObject selectionParent;
+
+    public GameObject attackBtn;
+    public GameObject skipBtn;
     
     private void Awake()
     {
@@ -31,11 +36,17 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        RandomWord();
+        attackBtn.SetActive(false);
+        RandomizeWord();
         SpawnWord();
     }
 
-    public void RandomWord()
+    public void ChangeQuestion(int _index)
+    {
+        correctWord = questions.questionWord[_index];
+    }
+
+    public void RandomizeWord()
     {
         string temp = correctWord;
 
@@ -68,6 +79,25 @@ public class GameManager : MonoBehaviour
             selection.indexButton = i;
             selectionButtonList.Add(selection);
         }
+    }
 
+    public void CheckIfAnswerBoxAlreadyFilled()
+    {
+        if (!answerBoxList.Exists(x => !x.isFilled))
+        {
+            attackBtn.SetActive(true);
+        }
+        else
+        {
+            attackBtn.SetActive(false);
+        }
+    }
+
+    public void Attack()
+    {
+        if (!answerBoxList.Exists(x => x.charAnswer.ToString() != x.charText.text))
+        {
+            Debug.Log("Correct");
+        }
     }
 }

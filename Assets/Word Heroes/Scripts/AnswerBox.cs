@@ -24,8 +24,10 @@ public class AnswerBox : MonoBehaviour
 
         List<SelectionButton> buttons = GameManager.instance.selectionButtonList;
         buttons[indexSelectionButton].SetButtonActive(true);
-        
+
         charText.text = string.Empty;
         isFilled = false;
+
+        GameManager.instance.CheckIfAnswerBoxAlreadyFilled();
     }
 }
