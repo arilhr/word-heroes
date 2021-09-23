@@ -9,6 +9,8 @@ public class Monster : MonoBehaviour
     public static Monster instance;
     private MonsterData monsterData;
 
+    [SerializeField] private TMP_Text monsterNameText;
+
     private bool isCounting = false;
     private float currentTime;
 
@@ -27,6 +29,7 @@ public class Monster : MonoBehaviour
     {
         monsterData = _data;
 
+        monsterNameText.text = monsterData.monsterName.ToUpper();
         currentMonsterHealth = monsterData.monsterHealth;
     }
 

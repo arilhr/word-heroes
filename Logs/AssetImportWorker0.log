@@ -235,3 +235,246 @@ System memory in use after: 86.0 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
 Total: 1.866500 ms (FindLiveObjects: 0.159900 ms CreateObjectMapping: 0.059900 ms MarkObjects: 1.549900 ms  DeleteObjects: 0.096000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 167.403934 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data
+  artifactKey: Guid(e1b388625455c7d42a275fc6039ec785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data using Guid(e1b388625455c7d42a275fc6039ec785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cf72059f9f2f53a3902204a38bde09') in 0.008815 seconds
+  Import took 0.033541 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 1.946000 ms (FindLiveObjects: 0.214300 ms CreateObjectMapping: 0.063000 ms MarkObjects: 1.499700 ms  DeleteObjects: 0.167400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.097123 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/test monster data.asset
+  artifactKey: Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/test monster data.asset using Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c7c0b19ebf8a9b420bb716abb6f0a1') in 0.010816 seconds
+  Import took 0.033192 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.033700 ms (FindLiveObjects: 0.238000 ms CreateObjectMapping: 0.085200 ms MarkObjects: 1.604100 ms  DeleteObjects: 0.105300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 1.683800 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.060000 ms MarkObjects: 1.354700 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 240.477329 seconds.
+  path: Assets/Word Heroes/Scenes/GameScene.unity
+  artifactKey: Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scenes/GameScene.unity using Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eba0a2040750b6d01841a4b03141ad1') in 0.015467 seconds
+  Import took 0.052930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.174880 seconds.
+  path: Assets/Word Heroes/Scenes/GameScene.unity
+  artifactKey: Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scenes/GameScene.unity using Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f1075b75b46b6a615eeae23de6488b') in 0.003394 seconds
+  Import took 0.006329 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2313.
+Total: 1.824100 ms (FindLiveObjects: 0.150700 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.525400 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 1.739900 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.063600 ms MarkObjects: 1.372400 ms  DeleteObjects: 0.092200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.074821 seconds.
+  path: Assets/Word Heroes/Scripts/System
+  artifactKey: Guid(6e4ceb89aebd2da439221de2044e37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System using Guid(6e4ceb89aebd2da439221de2044e37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d83b1175c91f9fac79af4f0e79d9e9') in 0.017257 seconds
+  Import took 0.047015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.703621 seconds.
+  path: Assets/Word Heroes/Scripts/InGame
+  artifactKey: Guid(928612c164b62a2488ae2bcba3ddfcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/InGame using Guid(928612c164b62a2488ae2bcba3ddfcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df9db04fdea662bfcdeba75146453a1') in 0.007996 seconds
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.316926 seconds.
+  path: Assets/Word Heroes/Scripts/GameManager.cs
+  artifactKey: Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/GameManager.cs using Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c1d97c9ce73205b4d9c4090101a328') in 0.006182 seconds
+  Import took 0.018200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019477 seconds.
+  path: Assets/Word Heroes/Scripts/GameManager.cs
+  artifactKey: Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/GameManager.cs using Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c1d97c9ce73205b4d9c4090101a328') in 0.002629 seconds
+  Import took 0.005071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.700762 seconds.
+  path: Assets/Word Heroes/Scripts/AnswerBox.cs
+  artifactKey: Guid(19a2fc80d36d6c0409bc51a4e9a03e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/AnswerBox.cs using Guid(19a2fc80d36d6c0409bc51a4e9a03e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63fe0c50d3690573800de18122d0532') in 0.006344 seconds
+  Import took 0.017016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.438914 seconds.
+  path: Assets/Word Heroes/Scripts/Monster.cs
+  artifactKey: Guid(c08bf4a4275f6964ca8a146debb48e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster.cs using Guid(c08bf4a4275f6964ca8a146debb48e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a081e30f47f6568c6bd71565b307365') in 0.006400 seconds
+  Import took 0.023061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.973696 seconds.
+  path: Assets/Word Heroes/Scripts/Player.cs
+  artifactKey: Guid(452f10d65a1f236479ebd1539d897fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Player.cs using Guid(452f10d65a1f236479ebd1539d897fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a712acb399798cdb3a8aa47c1df779b') in 0.004683 seconds
+  Import took 0.032955 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 1.635700 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.062400 ms MarkObjects: 1.303300 ms  DeleteObjects: 0.092600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.693364 seconds.
+  path: Assets/Word Heroes/Scripts/System/LevelManager.cs
+  artifactKey: Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/LevelManager.cs using Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46273de52b60a9775f1f45f22ebf328a') in 0.008076 seconds
+  Import took 0.016097 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000711 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 1.889600 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.556700 ms  DeleteObjects: 0.094800 ms)
+

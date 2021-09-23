@@ -218,6 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c08bf4a4275f6964ca8a146debb48e2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  monsterNameText: {fileID: 1679825359}
   monsterHealthBar: {fileID: 1178007869}
   timerText: {fileID: 1018545087}
 --- !u!1 &171659955

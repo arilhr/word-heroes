@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63e2f01f47072e74d89df95af91d8412, type: 3}
   m_Name: test monster data
   m_EditorClassIdentifier: 
-  monsterName: 
+  monsterName: plant monster
   monsterHealth: 5
   monsterDamage: 20
   timeToAttack: 10
