@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 98397380}
   - component: {fileID: 98397379}
+  - component: {fileID: 98397381}
   m_Layer: 0
   m_Name: Monster
   m_TagString: Untagged
@@ -205,6 +206,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &98397381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98397378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c08bf4a4275f6964ca8a146debb48e2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timerText: {fileID: 1018545087}
 --- !u!1 &171659955
 GameObject:
   m_ObjectHideFlags: 0
@@ -1176,7 +1190,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1173585263}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590785549}
+        m_TargetAssemblyTypeName: WordManager, Assembly-CSharp
+        m_MethodName: Skip
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1173585263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1333,17 +1359,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0de35b82b83dd8242b703a8ecfaa0e30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questions: {fileID: 11400000, guid: 9272ddbeb86f61f48b1a38047f259096, type: 2}
-  correctWord: 
-  randomedWord: 
-  answerBoxList: []
-  answerBoxPrefab: {fileID: 4581034949962126448, guid: 4ded967f489f0df48ac6a51f50598cde, type: 3}
-  answerBoxParent: {fileID: 171659955}
-  selectionButtonList: []
-  selectionBoxPrefab: {fileID: 4353697065602431413, guid: 33bd3b9044ec6644a824d37ba53feee1, type: 3}
-  selectionParent: {fileID: 1449457229}
-  attackBtn: {fileID: 1973800321}
-  skipBtn: {fileID: 1173585260}
+  currentMonster: {fileID: 11400000, guid: 9272ddbeb86f61f48b1a38047f259096, type: 2}
+  OnStartGame:
+    m_PersistentCalls:
+      m_Calls: []
+  OnPauseGame:
+    m_PersistentCalls:
+      m_Calls: []
+  OnGameEnded:
+    m_PersistentCalls:
+      m_Calls: []
+  OnGameWin:
+    m_PersistentCalls:
+      m_Calls: []
+  OnGameLose:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!4 &1201839584
 Transform:
   m_ObjectHideFlags: 0
@@ -1903,6 +1934,7 @@ GameObject:
   - component: {fileID: 1590785546}
   - component: {fileID: 1590785548}
   - component: {fileID: 1590785547}
+  - component: {fileID: 1590785549}
   m_Layer: 5
   m_Name: Words
   m_TagString: Untagged
@@ -1969,6 +2001,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1590785545}
   m_CullTransparentMesh: 1
+--- !u!114 &1590785549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590785545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ebe22789d3635d4faffbf6a8d3724cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  correctWord: 
+  randomedWord: 
+  answerBoxList: []
+  answerBoxPrefab: {fileID: 4581034949962126448, guid: 4ded967f489f0df48ac6a51f50598cde, type: 3}
+  answerBoxParent: {fileID: 171659955}
+  selectionButtonList: []
+  selectionBoxPrefab: {fileID: 4353697065602431413, guid: 33bd3b9044ec6644a824d37ba53feee1, type: 3}
+  selectionParent: {fileID: 1449457229}
+  attackBtn: {fileID: 1973800321}
+  skipBtn: {fileID: 1173585260}
 --- !u!1 &1641339602
 GameObject:
   m_ObjectHideFlags: 0
@@ -2373,8 +2427,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1201839583}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+      - m_Target: {fileID: 1590785549}
+        m_TargetAssemblyTypeName: WordManager, Assembly-CSharp
         m_MethodName: Attack
         m_Mode: 1
         m_Arguments:

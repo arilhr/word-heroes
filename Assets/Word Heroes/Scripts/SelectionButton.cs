@@ -12,7 +12,7 @@ public class SelectionButton : MonoBehaviour
 
     public void FillWord()
     {
-        List<AnswerBox> answerList = GameManager.instance.answerBoxList;
+        List<AnswerBox> answerList = WordManager.instance.answerBoxList;
         AnswerBox blankAnswer = answerList.Find(x => !x.isFilled);
 
         if (!blankAnswer.isFilled)
@@ -20,7 +20,7 @@ public class SelectionButton : MonoBehaviour
             blankAnswer.FillAnswer(charSelection, indexButton);
             SetButtonActive(false);
 
-            GameManager.instance.CheckIfAnswerBoxAlreadyFilled();
+            WordManager.instance.CheckIfAnswerBoxAlreadyFilled();
         }
     }
 

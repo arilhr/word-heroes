@@ -22,12 +22,12 @@ public class AnswerBox : MonoBehaviour
     {
         if (!isFilled) return;
 
-        List<SelectionButton> buttons = GameManager.instance.selectionButtonList;
+        List<SelectionButton> buttons = WordManager.instance.selectionButtonList;
         buttons[indexSelectionButton].SetButtonActive(true);
 
         charText.text = string.Empty;
         isFilled = false;
 
-        GameManager.instance.CheckIfAnswerBoxAlreadyFilled();
+        WordManager.instance.CheckIfAnswerBoxAlreadyFilled();
     }
 }
