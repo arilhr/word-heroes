@@ -140,6 +140,7 @@ public class WordManager : MonoBehaviour
         if (!answerBoxList.Exists(x => x.charAnswer.ToString() != x.charText.text))
         {
             Debug.Log("Correct");
+            Monster.instance.DecreasedHealth();
             ClearCurrentQuestion();
             uncompletedQuestion.Remove(currentIndexQuestion);
 

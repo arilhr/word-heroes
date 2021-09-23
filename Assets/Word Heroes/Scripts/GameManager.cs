@@ -30,10 +30,12 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         WordManager.instance.SetMonsterData(currentMonster);
-        Monster.instance.SetMonster(currentMonster);
         WordManager.instance.InitializeStartingData();
         WordManager.instance.SpawnWord();
+        Monster.instance.SetMonster(currentMonster);
+        Monster.instance.InitializeMonsterData(currentMonster);
         Monster.instance.StartTimer();
+
     }
 
     public void GameStart()

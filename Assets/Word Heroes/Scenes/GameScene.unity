@@ -218,6 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c08bf4a4275f6964ca8a146debb48e2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  monsterHealthBar: {fileID: 1178007869}
   timerText: {fileID: 1018545087}
 --- !u!1 &171659955
 GameObject:
@@ -1037,6 +1038,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1130068727}
   - component: {fileID: 1130068726}
+  - component: {fileID: 1130068728}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1109,6 +1111,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1130068728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1130068725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 452f10d65a1f236479ebd1539d897fb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerData: {fileID: 11400000, guid: fb986426c02ccd34babe60d95539ff28, type: 2}
+  playerHealthUI: {fileID: 1355516675}
 --- !u!1 &1173585260
 GameObject:
   m_ObjectHideFlags: 0
@@ -1322,7 +1338,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 1958926146}
   m_HandleRect: {fileID: 0}
-  m_Direction: 0
+  m_Direction: 1
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0

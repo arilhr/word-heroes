@@ -9,14 +9,25 @@ public class Monster : MonoBehaviour
     public static Monster instance;
     private MonsterData monsterData;
 
-    bool isCounting = false;
-    float currentTime;
+    private bool isCounting = false;
+    private float currentTime;
+
+    public Slider monsterHealthBar;
+    private int currentMonsterHealth;
+
     public TMP_Text timerText;
 
     private void Awake()
     {
         if (instance == null) instance = this;
         else Destroy(gameObject);
+    }
+
+    public void InitializeMonsterData(MonsterData _data)
+    {
+        monsterData = _data;
+
+        currentMonsterHealth = monsterData.monsterHealth;
     }
 
     public void StartTimer()
@@ -29,6 +40,8 @@ public class Monster : MonoBehaviour
     {
         if (isCounting)
             CountTime();
+
+        UpdatedMonsterHealthBar();
     }
 
     private void CountTime()
@@ -38,12 +51,44 @@ public class Monster : MonoBehaviour
         if (currentTime <= 0)
         {
             currentTime = 0;
-            isCounting = false;
+            MonsterAttack();
             Debug.Log("Monster attack");
+            StartTimer();
             return;
         }
 
         timerText.text = Mathf.Floor(currentTime).ToString();
+    }
+
+    public void DecreasedHealth()
+    {
+        currentMonsterHealth--;
+
+        if (currentMonsterHealth <= 0)
+        {
+            currentMonsterHealth = 0;
+
+            Debug.Log("Monster Die");
+
+            // Game Win
+        }
+    }
+
+    private void UpdatedMonsterHealthBar()
+    {
+        float targetValue = (float) currentMonsterHealth / (float) monsterData.monsterHealth;
+
+        if (monsterHealthBar.value != targetValue)
+        {
+            monsterHealthBar.value = Mathf.Lerp(monsterHealthBar.value, targetValue, 0.02f);
+        }
+    }
+
+    private void MonsterAttack()
+    {
+        Player.instance.DecreaseHealth(monsterData.monsterDamage);
+
+        // animation
     }
 
     public void SetMonster(MonsterData _data)

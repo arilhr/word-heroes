@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: test monster data
   m_EditorClassIdentifier: 
   monsterName: 
+  monsterHealth: 5
+  monsterDamage: 20
   timeToAttack: 10
   questionWord:
   - LEAF
   - ROOT
   - PLANT
+  - ROSE
+  - WOOD
+  - SEED
