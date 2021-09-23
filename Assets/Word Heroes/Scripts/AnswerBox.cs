@@ -15,7 +15,7 @@ public class AnswerBox : MonoBehaviour
     {
         isFilled = true;
         indexSelectionButton = _indexSelectionButton;
-        charText.text = _w.ToString();
+        charText.text = _w.ToString().ToUpper();
     }
 
     public void DeleteAnswer()

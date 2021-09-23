@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class WordManager : MonoBehaviour
 {
@@ -12,6 +14,7 @@ public class WordManager : MonoBehaviour
     public string randomedWord;
     private int currentIndexQuestion;
 
+    public TMP_Text questionText;
     public List<AnswerBox> answerBoxList;
     public GameObject answerBoxPrefab;
     public GameObject answerBoxParent;
@@ -38,7 +41,7 @@ public class WordManager : MonoBehaviour
         attackBtn.SetActive(false);
         currentIndexQuestion = 0;
         ChangeQuestion();
-        for (int i = 0; i < monsterData.questionWord.Count; i++)
+        for (int i = 0; i < monsterData.questionAndAnswer.Count; i++)
         {
             uncompletedQuestion.Add(i);
         }
@@ -46,7 +49,9 @@ public class WordManager : MonoBehaviour
 
     public void ChangeQuestion()
     {
-        correctWord = monsterData.questionWord[currentIndexQuestion];
+        questionText.text = monsterData.questionAndAnswer[currentIndexQuestion].question.ToUpper();
+        correctWord = monsterData.questionAndAnswer[currentIndexQuestion].answer.ToUpper();
+        
     }
 
     public void RandomizeWord()
@@ -119,7 +124,7 @@ public class WordManager : MonoBehaviour
             return;
         }
 
-        if (currentIndexQuestion == monsterData.questionWord.Count - 1)
+        if (currentIndexQuestion == monsterData.questionAndAnswer.Count - 1)
         {
             currentIndexQuestion = 0;
         }

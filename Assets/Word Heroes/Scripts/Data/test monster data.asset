@@ -16,10 +16,14 @@ MonoBehaviour:
   monsterHealth: 5
   monsterDamage: 20
   timeToAttack: 10
-  questionWord:
-  - LEAF
-  - ROOT
-  - PLANT
-  - ROSE
-  - WOOD
-  - SEED
+  questionAndAnswer:
+  - question: Daun
+    answer: Leaf
+  - question: Akar
+    answer: Root
+  - question: Biji
+    answer: Seed
+  - question: Bunga
+    answer: Rose
+  - question: Buah
+    answer: Fruit
