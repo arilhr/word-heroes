@@ -1333,8 +1333,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0de35b82b83dd8242b703a8ecfaa0e30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questions: {fileID: 0}
-  correctWord: LEAF
+  questions: {fileID: 11400000, guid: 9272ddbeb86f61f48b1a38047f259096, type: 2}
+  correctWord: 
   randomedWord: 
   answerBoxList: []
   answerBoxPrefab: {fileID: 4581034949962126448, guid: 4ded967f489f0df48ac6a51f50598cde, type: 3}
@@ -2372,7 +2372,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1973800324}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1201839583}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: Attack
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1973800324
 MonoBehaviour:
   m_ObjectHideFlags: 0

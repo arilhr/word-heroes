@@ -8,9 +8,10 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
 
     public QuestionData questions;
+    private List<int> uncompletedQuestion = new List<int>();
     public string correctWord;
     public string randomedWord;
-    private int currentQuestion;
+    private int currentIndexQuestion;
 
     public List<AnswerBox> answerBoxList;
     public GameObject answerBoxPrefab;
@@ -36,10 +37,23 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        attackBtn.SetActive(false);
+        InitializeStartingData();
+        ChangeQuestion(currentIndexQuestion);
         RandomizeWord();
         SpawnWord();
     }
+
+    private void InitializeStartingData()
+    {
+        attackBtn.SetActive(false);
+        currentIndexQuestion = 0;
+        
+        for (int i = 0; i < questions.questionWord.Count; i++)
+        {
+            uncompletedQuestion.Add(i);
+        }
+    }
+    
 
     public void ChangeQuestion(int _index)
     {
@@ -48,6 +62,8 @@ public class GameManager : MonoBehaviour
 
     public void RandomizeWord()
     {
+        correctWord = questions.questionWord[currentIndexQuestion];
+        randomedWord = string.Empty;
         string temp = correctWord;
 
         for (int i = 0; i < correctWord.Length; i++)
@@ -93,11 +109,56 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void ClearCurrentQuestion()
+    {
+        for (int i = 0; i < correctWord.Length; i++)
+        {
+            Destroy(answerBoxList[i].gameObject);
+            Destroy(selectionButtonList[i].gameObject);
+        }
+
+        answerBoxList.Clear();
+        selectionButtonList.Clear();
+    }
+
+    public void NextQuestion()
+    {
+        if (uncompletedQuestion.Count == 0)
+        {
+            Debug.Log("Question is All Done");
+            return;
+        }
+
+        if (currentIndexQuestion == questions.questionWord.Count - 1)
+        {
+            currentIndexQuestion = 0;
+        }
+        else
+        {
+            currentIndexQuestion++;
+        }
+
+        if (uncompletedQuestion.Exists(x => x == currentIndexQuestion))
+        {
+            RandomizeWord();
+            SpawnWord();
+        }
+        else
+        {
+            NextQuestion();
+        }
+    }
+
     public void Attack()
     {
         if (!answerBoxList.Exists(x => x.charAnswer.ToString() != x.charText.text))
         {
             Debug.Log("Correct");
+            ClearCurrentQuestion();
+            uncompletedQuestion.Remove(currentIndexQuestion);
+
+            NextQuestion();
+            
         }
     }
 }
