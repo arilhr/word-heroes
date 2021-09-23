@@ -478,3 +478,1045 @@ System memory in use after: 86.1 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
 Total: 1.889600 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.556700 ms  DeleteObjects: 0.094800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 1.690400 ms (FindLiveObjects: 0.163300 ms CreateObjectMapping: 0.056900 ms MarkObjects: 1.371400 ms  DeleteObjects: 0.097800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 477.094880 seconds.
+  path: Assets/Word Heroes/Scripts/System/LevelManager.cs
+  artifactKey: Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/LevelManager.cs using Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ac07e55eb4b3d1009d12a51094d6cc') in 0.003438 seconds
+  Import took 0.021171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.828823 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
+  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcda23533f8702a5b8f826638387b64') in 0.005864 seconds
+  Import took 0.008486 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 1.914900 ms (FindLiveObjects: 0.207900 ms CreateObjectMapping: 0.068900 ms MarkObjects: 1.537100 ms  DeleteObjects: 0.099600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.705 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 1.781700 ms (FindLiveObjects: 0.165400 ms CreateObjectMapping: 0.055100 ms MarkObjects: 1.464600 ms  DeleteObjects: 0.095400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.666751 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
+  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cd87caf899498241a2f759d484e2a8') in 0.003328 seconds
+  Import took 0.052566 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 2.013500 ms (FindLiveObjects: 0.246800 ms CreateObjectMapping: 0.091900 ms MarkObjects: 1.567200 ms  DeleteObjects: 0.106500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.356495 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
+  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208c9a62804ec3edc744730aa240ed9b') in 0.003258 seconds
+  Import took 0.006259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.506711 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668798378fc699cf7eb820b577405bd1') in 0.004969 seconds
+  Import took 0.007750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001069 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 1.757900 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.067700 ms MarkObjects: 1.413200 ms  DeleteObjects: 0.098600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 1.763600 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.066800 ms MarkObjects: 1.421200 ms  DeleteObjects: 0.094600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.318231 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001012 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.003262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005386 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000220 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016997 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000216 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012746 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015143 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000228 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014285 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014792 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000268 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014891 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000211 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013393 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015437 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013467 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000200 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013834 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013845 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012345 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014580 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000227 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012815 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000246 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012667 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000235 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014807 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012869 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000294 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.003368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015704 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000217 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014232 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000221 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014372 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018933 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000223 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013838 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000255 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016017 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000260 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016633 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000212 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014112 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000265 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015505 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000260 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012763 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015917 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000219 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013283 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000230 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015316 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013660 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000221 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013669 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000204 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015997 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000277 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014243 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000209 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016356 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000217 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013305 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000303 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.003198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013424 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015891 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013033 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015937 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012875 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000269 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013442 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015500 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000204 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014042 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000201 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015019 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000291 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012786 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000323 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012792 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000271 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.003121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015942 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000214 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012861 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000231 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012859 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000225 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015210 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012878 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000219 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015688 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013610 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012558 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016156 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013199 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000257 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012940 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015096 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013130 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012864 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000210 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014816 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000203 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013324 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014055 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017339 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000298 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012096 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015339 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000256 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012795 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000216 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014154 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019036 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000252 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012400 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013657 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000220 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012320 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000239 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013902 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000205 seconds
+  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
+  Import took 0.002321 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 1.874800 ms (FindLiveObjects: 0.176100 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.537800 ms  DeleteObjects: 0.099000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1003.970553 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2619a9c31453970212888af0943d82') in 0.003711 seconds
+  Import took 0.035705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.848477 seconds.
+  path: Assets/Word Heroes/Prefabs/Level.prefab
+  artifactKey: Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Prefabs/Level.prefab using Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761d9a975a39b14eb21e8c6b196a9d40') in 0.079457 seconds
+  Import took 0.104807 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 1.664600 ms (FindLiveObjects: 0.178200 ms CreateObjectMapping: 0.067500 ms MarkObjects: 1.325600 ms  DeleteObjects: 0.092300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 6.559400 ms (FindLiveObjects: 0.508400 ms CreateObjectMapping: 0.252300 ms MarkObjects: 5.472900 ms  DeleteObjects: 0.322300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 297.929483 seconds.
+  path: Assets/Word Heroes/Prefabs/Level.prefab
+  artifactKey: Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Prefabs/Level.prefab using Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bbbe5661a0b33c48e18098174ccc7b') in 0.068278 seconds
+  Import took 0.090900 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 1.737900 ms (FindLiveObjects: 0.188200 ms CreateObjectMapping: 0.065300 ms MarkObjects: 1.390600 ms  DeleteObjects: 0.092500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 1.981300 ms (FindLiveObjects: 0.214600 ms CreateObjectMapping: 0.065300 ms MarkObjects: 1.605700 ms  DeleteObjects: 0.094900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 1.920600 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.541500 ms  DeleteObjects: 0.098100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 1.880500 ms (FindLiveObjects: 0.195800 ms CreateObjectMapping: 0.095000 ms MarkObjects: 1.493100 ms  DeleteObjects: 0.095800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 18.150500 ms (FindLiveObjects: 0.978600 ms CreateObjectMapping: 4.738300 ms MarkObjects: 12.291400 ms  DeleteObjects: 0.139400 ms)
+

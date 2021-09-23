@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 7755814953318381726}
   - component: {fileID: 7755814953318381720}
   - component: {fileID: 7755814953318381727}
+  - component: {fileID: -1956087785119531675}
   m_Layer: 5
   m_Name: Level
   m_TagString: Untagged
@@ -198,6 +199,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-1956087785119531675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7755814953318381725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e81433a29a169d64dabf3207cb251eb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monsterImage: {fileID: 7755814954626493029}
+  monsterName: {fileID: 7755814954275085953}
+  fightButton: {fileID: 5686387506659280195}
 --- !u!1 &7755814953832515055
 GameObject:
   m_ObjectHideFlags: 0
