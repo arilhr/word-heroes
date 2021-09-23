@@ -26,8 +26,7 @@ public class AnswerBox : MonoBehaviour
         buttons[indexSelectionButton].SetButtonActive(true);
 
         charText.text = string.Empty;
+        indexSelectionButton = -1;
         isFilled = false;
-
-        WordManager.instance.CheckIfAnswerBoxAlreadyFilled();
     }
 }

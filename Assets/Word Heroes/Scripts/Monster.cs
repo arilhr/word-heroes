@@ -84,6 +84,11 @@ public class Monster : MonoBehaviour
         }
     }
 
+    public void AddTime(float _addedTime)
+    {
+        currentTime += _addedTime;
+    }
+
     private void MonsterAttack()
     {
         Player.instance.DecreaseHealth(monsterData.monsterDamage);

@@ -28,6 +28,11 @@ public class WordManager : MonoBehaviour
         else Destroy(gameObject);
     }
 
+    private void Update()
+    {
+        CheckIfAllAnswerBoxAlreadyFilled();
+    }
+
     public void InitializeStartingData()
     {
         attackBtn.SetActive(false);
@@ -82,7 +87,7 @@ public class WordManager : MonoBehaviour
         }
     }
 
-    public void CheckIfAnswerBoxAlreadyFilled()
+    public void CheckIfAllAnswerBoxAlreadyFilled()
     {
         if (!answerBoxList.Exists(x => !x.isFilled))
         {
@@ -140,19 +145,39 @@ public class WordManager : MonoBehaviour
         if (!answerBoxList.Exists(x => x.charAnswer.ToString() != x.charText.text))
         {
             Debug.Log("Correct");
+
+            // effect to monster
+            Monster.instance.AddTime(2f);
             Monster.instance.DecreasedHealth();
+
+            // clear and next question
             ClearCurrentQuestion();
             uncompletedQuestion.Remove(currentIndexQuestion);
 
             NextQuestion();
-
+        }
+        else
+        {
+            Debug.Log("Uncorrect");
+            ResetAnswer();
         }
     }
 
     public void Skip()
     {
+        if (uncompletedQuestion.Count <= 1) return;
+
         ClearCurrentQuestion();
         NextQuestion();
+    }
+
+    public void ResetAnswer()
+    {
+        foreach (AnswerBox a in answerBoxList)
+        {
+            a.DeleteAnswer();
+        }
+
     }
 
     public void SetMonsterData(MonsterData _data)
