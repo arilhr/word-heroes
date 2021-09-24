@@ -218,6 +218,8 @@ MonoBehaviour:
   levelListPage: {fileID: 6496175181336941519, guid: a9c7709a55a86a64d90a0bcc008e2001, type: 3}
   levelObject: {fileID: 7755814953318381725, guid: e0f737a11ffb8b54eb953e715135d202, type: 3}
   maxLevelObjectOnPage: 3
+  previousButton: {fileID: 1833505624}
+  nextButton: {fileID: 1660433905}
 --- !u!1 &22439086
 GameObject:
   m_ObjectHideFlags: 0
@@ -3370,7 +3372,7 @@ GameObject:
   - component: {fileID: 1660433908}
   - component: {fileID: 1660433907}
   m_Layer: 5
-  m_Name: RightBtn
+  m_Name: nextBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3438,7 +3440,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1660433908}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 17405208}
+        m_TargetAssemblyTypeName: SelectLevelManager, Assembly-CSharp
+        m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1660433908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3919,6 +3933,15 @@ MonoBehaviour:
   - levelID: Plant
     playerData: {fileID: 11400000, guid: fb986426c02ccd34babe60d95539ff28, type: 2}
     monsterData: {fileID: 11400000, guid: 9272ddbeb86f61f48b1a38047f259096, type: 2}
+  - levelID: b
+    playerData: {fileID: 11400000, guid: fb986426c02ccd34babe60d95539ff28, type: 2}
+    monsterData: {fileID: 11400000, guid: 93d2f6afde9878346a93dfdc13fea839, type: 2}
+  - levelID: c
+    playerData: {fileID: 11400000, guid: fb986426c02ccd34babe60d95539ff28, type: 2}
+    monsterData: {fileID: 11400000, guid: 67263d4c0332bec4689b54688e968bfd, type: 2}
+  - levelID: d
+    playerData: {fileID: 11400000, guid: fb986426c02ccd34babe60d95539ff28, type: 2}
+    monsterData: {fileID: 11400000, guid: 3ab0fd73f82037749ae6c8e88341b826, type: 2}
   levelIDToLoad: 
 --- !u!4 &1796662029
 Transform:
@@ -3947,7 +3970,7 @@ GameObject:
   - component: {fileID: 1833505627}
   - component: {fileID: 1833505626}
   m_Layer: 5
-  m_Name: LeftBtn
+  m_Name: prevBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4015,7 +4038,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1833505627}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 17405208}
+        m_TargetAssemblyTypeName: SelectLevelManager, Assembly-CSharp
+        m_MethodName: PreviousPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1833505627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4683,6 +4718,18 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 17405208}
+        m_TargetAssemblyTypeName: SelectLevelManager, Assembly-CSharp
+        m_MethodName: ResetPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 17405204}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine

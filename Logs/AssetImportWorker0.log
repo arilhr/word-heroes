@@ -15,11 +15,11 @@ D:/PROJECT/UNITY PROJECT/word-heroes
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49313
+54519
 Successfully changed project path to: D:/PROJECT/UNITY PROJECT/word-heroes
 D:/PROJECT/UNITY PROJECT/word-heroes
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.82 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.02 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,1340 +35,345 @@ Initialize mono
 Mono path[0] = 'D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/SOFTWARE/Unity Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001817 seconds.
+Registered in 0.001425 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 67.77 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 34.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.370 seconds
+- Completed reload, in  1.272 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000928 seconds.
+Registered in 0.000738 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 36.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.28 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.899 seconds
+- Completed reload, in  0.853 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1832 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 87.3 MB.
-System memory in use after: 87.2 MB.
+System memory in use after: 87.3 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2273.
-Total: 2.068800 ms (FindLiveObjects: 0.175600 ms CreateObjectMapping: 0.083500 ms MarkObjects: 1.691900 ms  DeleteObjects: 0.116500 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Word Heroes/Scripts/WordManager.cs
-  artifactKey: Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/WordManager.cs using Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd457a4727122f2bd5a451dbfffd8b55b') in 0.048926 seconds
-  Import took 0.051946 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2276.
+Total: 1.819900 ms (FindLiveObjects: 0.225500 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.397600 ms  DeleteObjects: 0.111900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 31.918602 seconds.
-  path: Assets/Word Heroes/Scripts/WordManager.cs
-  artifactKey: Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/WordManager.cs using Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'badebb3732c74abdefd369ff24059dfe') in 0.002468 seconds
-  Import took 0.005488 seconds .
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 1.asset
+  artifactKey: Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 1.asset using Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a56d2246078a27e4a874719583bc29') in 0.060473 seconds
+  Import took 0.063017 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.018255 seconds.
-  path: Assets/Word Heroes/Scripts/WordManager.cs
-  artifactKey: Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/WordManager.cs using Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3680568d51a24a2d671c495b26efc979') in 0.002378 seconds
-  Import took 0.005469 seconds .
+  Time since last request: 4.081389 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 2.asset
+  artifactKey: Guid(93d2f6afde9878346a93dfdc13fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 2.asset using Guid(93d2f6afde9878346a93dfdc13fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4680e4a387ef268263d5d49cb5418c7') in 0.006566 seconds
+  Import took 0.009173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.482329 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 3.asset
+  artifactKey: Guid(67263d4c0332bec4689b54688e968bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 3.asset using Guid(67263d4c0332bec4689b54688e968bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9517aaec8a1242286089247cfacd3ca0') in 0.007233 seconds
+  Import took 0.010010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.286749 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/NewBehaviourScript.cs
+  artifactKey: Guid(7b00be62aa69a6545bfbb62a95129310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/NewBehaviourScript.cs using Guid(7b00be62aa69a6545bfbb62a95129310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d71b8102bc45897d7ce4e4eb8157c3') in 0.027231 seconds
+  Import took 0.029684 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000723 seconds.
+Registered in 0.000696 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.722 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.9 MB.
-System memory in use after: 85.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2277.
-Total: 1.843600 ms (FindLiveObjects: 0.155000 ms CreateObjectMapping: 0.059000 ms MarkObjects: 1.536700 ms  DeleteObjects: 0.092100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001004 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.716 seconds
+- Completed reload, in  0.777 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.0 MB.
 System memory in use after: 86.0 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2281.
-Total: 1.683600 ms (FindLiveObjects: 0.154300 ms CreateObjectMapping: 0.059400 ms MarkObjects: 1.374600 ms  DeleteObjects: 0.094200 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 1.687800 ms (FindLiveObjects: 0.177000 ms CreateObjectMapping: 0.058900 ms MarkObjects: 1.352700 ms  DeleteObjects: 0.097600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 183.154187 seconds.
-  path: Assets/Word Heroes/Scripts/WordManager.cs
-  artifactKey: Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/WordManager.cs using Guid(6ebe22789d3635d4faffbf6a8d3724cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20622d2faf1318a07d0344c7af019c39') in 0.005390 seconds
-  Import took 0.007750 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000694 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.726 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.0 MB.
-System memory in use after: 86.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
-Total: 1.804700 ms (FindLiveObjects: 0.238700 ms CreateObjectMapping: 0.089900 ms MarkObjects: 1.378200 ms  DeleteObjects: 0.096800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000694 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.728 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.0 MB.
-System memory in use after: 86.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
-Total: 1.732900 ms (FindLiveObjects: 0.190800 ms CreateObjectMapping: 0.071100 ms MarkObjects: 1.372500 ms  DeleteObjects: 0.097300 ms)
+  Time since last request: 13.556548 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 4.asset
+  artifactKey: Guid(3ab0fd73f82037749ae6c8e88341b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 4.asset using Guid(3ab0fd73f82037749ae6c8e88341b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a073e5d0e20e4157cf628c80ac0c3d7b') in 0.014812 seconds
+  Import took 0.017975 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 97.062477 seconds.
-  path: Assets/Word Heroes/Scripts/Data/test monster data.asset
+  Time since last request: 29.316778 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 1.asset
   artifactKey: Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/Data/test monster data.asset using Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929829aa306fd458d7e86e4a41fc07f8') in 0.017365 seconds
-  Import took 0.020052 seconds .
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 1.asset using Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588ca5868a359ecca63637b97e26e03d') in 0.002748 seconds
+  Import took 0.006039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 4.asset
+  artifactKey: Guid(3ab0fd73f82037749ae6c8e88341b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 4.asset using Guid(3ab0fd73f82037749ae6c8e88341b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '065e3bb24e8beb5421c37c369bb19930') in 0.002760 seconds
+  Import took 0.005347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 3.asset
+  artifactKey: Guid(67263d4c0332bec4689b54688e968bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 3.asset using Guid(67263d4c0332bec4689b54688e968bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d355a7514c5d3f60a9091756d81319') in 0.002460 seconds
+  Import took 0.004893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Word Heroes/Scripts/Monster Data/Test Monster 2.asset
+  artifactKey: Guid(93d2f6afde9878346a93dfdc13fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/Monster Data/Test Monster 2.asset using Guid(93d2f6afde9878346a93dfdc13fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd26961883660e6040276e53da9e417') in 0.003009 seconds
+  Import took 0.005455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.592619 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
+  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdc307332ba2c8f2cde7b527939eeb0') in 0.005695 seconds
+  Import took 0.008115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029714 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
+  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdc307332ba2c8f2cde7b527939eeb0') in 0.002214 seconds
+  Import took 0.004581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.692340 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7625f04b0ce6fd0c682f54a1c35dc1a6') in 0.005162 seconds
+  Import took 0.007803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040053 seconds.
+  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
+  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7625f04b0ce6fd0c682f54a1c35dc1a6') in 0.002618 seconds
+  Import took 0.005173 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000704 seconds.
+Registered in 0.000764 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.719 seconds
+- Completed reload, in  2.240 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.0 MB.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
 System memory in use after: 86.0 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2293.
-Total: 1.812800 ms (FindLiveObjects: 0.151300 ms CreateObjectMapping: 0.055800 ms MarkObjects: 1.508800 ms  DeleteObjects: 0.096200 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 7.887600 ms (FindLiveObjects: 1.040600 ms CreateObjectMapping: 1.406700 ms MarkObjects: 5.228900 ms  DeleteObjects: 0.209500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000674 seconds.
+Registered in 0.001799 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.711 seconds
+- Completed reload, in  0.854 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 1.889700 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.063400 ms MarkObjects: 1.566600 ms  DeleteObjects: 0.105100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.0 MB.
-System memory in use after: 86.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
-Total: 1.866500 ms (FindLiveObjects: 0.159900 ms CreateObjectMapping: 0.059900 ms MarkObjects: 1.549900 ms  DeleteObjects: 0.096000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 167.403934 seconds.
-  path: Assets/Word Heroes/Scripts/Monster Data
-  artifactKey: Guid(e1b388625455c7d42a275fc6039ec785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/Monster Data using Guid(e1b388625455c7d42a275fc6039ec785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cf72059f9f2f53a3902204a38bde09') in 0.008815 seconds
-  Import took 0.033541 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000701 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.716 seconds
+- Completed reload, in  0.754 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
-Total: 1.946000 ms (FindLiveObjects: 0.214300 ms CreateObjectMapping: 0.063000 ms MarkObjects: 1.499700 ms  DeleteObjects: 0.167400 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 85.097123 seconds.
-  path: Assets/Word Heroes/Scripts/Monster Data/test monster data.asset
-  artifactKey: Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/Monster Data/test monster data.asset using Guid(9272ddbeb86f61f48b1a38047f259096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c7c0b19ebf8a9b420bb716abb6f0a1') in 0.010816 seconds
-  Import took 0.033192 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000701 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.707 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2305.
-Total: 2.033700 ms (FindLiveObjects: 0.238000 ms CreateObjectMapping: 0.085200 ms MarkObjects: 1.604100 ms  DeleteObjects: 0.105300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000686 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.737 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.1 MB.
 System memory in use after: 86.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
-Total: 1.683800 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.060000 ms MarkObjects: 1.354700 ms  DeleteObjects: 0.099500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 240.477329 seconds.
-  path: Assets/Word Heroes/Scenes/GameScene.unity
-  artifactKey: Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scenes/GameScene.unity using Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eba0a2040750b6d01841a4b03141ad1') in 0.015467 seconds
-  Import took 0.052930 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.174880 seconds.
-  path: Assets/Word Heroes/Scenes/GameScene.unity
-  artifactKey: Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scenes/GameScene.unity using Guid(b3edd5f7f7223d8448f0212d54e72b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f1075b75b46b6a615eeae23de6488b') in 0.003394 seconds
-  Import took 0.006329 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 1.853700 ms (FindLiveObjects: 0.174100 ms CreateObjectMapping: 0.079500 ms MarkObjects: 1.501400 ms  DeleteObjects: 0.097500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000676 seconds.
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 1.989300 ms (FindLiveObjects: 0.231300 ms CreateObjectMapping: 0.086900 ms MarkObjects: 1.577300 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000860 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.685 seconds
+- Completed reload, in  0.738 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2313.
-Total: 1.824100 ms (FindLiveObjects: 0.150700 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.525400 ms  DeleteObjects: 0.092800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000708 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.708 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2317.
-Total: 1.739900 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.063600 ms MarkObjects: 1.372400 ms  DeleteObjects: 0.092200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 255.074821 seconds.
-  path: Assets/Word Heroes/Scripts/System
-  artifactKey: Guid(6e4ceb89aebd2da439221de2044e37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System using Guid(6e4ceb89aebd2da439221de2044e37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d83b1175c91f9fac79af4f0e79d9e9') in 0.017257 seconds
-  Import took 0.047015 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.703621 seconds.
-  path: Assets/Word Heroes/Scripts/InGame
-  artifactKey: Guid(928612c164b62a2488ae2bcba3ddfcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/InGame using Guid(928612c164b62a2488ae2bcba3ddfcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df9db04fdea662bfcdeba75146453a1') in 0.007996 seconds
-  Import took 0.010799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.316926 seconds.
-  path: Assets/Word Heroes/Scripts/GameManager.cs
-  artifactKey: Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/GameManager.cs using Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c1d97c9ce73205b4d9c4090101a328') in 0.006182 seconds
-  Import took 0.018200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019477 seconds.
-  path: Assets/Word Heroes/Scripts/GameManager.cs
-  artifactKey: Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/GameManager.cs using Guid(0de35b82b83dd8242b703a8ecfaa0e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c1d97c9ce73205b4d9c4090101a328') in 0.002629 seconds
-  Import took 0.005071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.700762 seconds.
-  path: Assets/Word Heroes/Scripts/AnswerBox.cs
-  artifactKey: Guid(19a2fc80d36d6c0409bc51a4e9a03e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/AnswerBox.cs using Guid(19a2fc80d36d6c0409bc51a4e9a03e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63fe0c50d3690573800de18122d0532') in 0.006344 seconds
-  Import took 0.017016 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.438914 seconds.
-  path: Assets/Word Heroes/Scripts/Monster.cs
-  artifactKey: Guid(c08bf4a4275f6964ca8a146debb48e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/Monster.cs using Guid(c08bf4a4275f6964ca8a146debb48e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a081e30f47f6568c6bd71565b307365') in 0.006400 seconds
-  Import took 0.023061 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.973696 seconds.
-  path: Assets/Word Heroes/Scripts/Player.cs
-  artifactKey: Guid(452f10d65a1f236479ebd1539d897fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/Player.cs using Guid(452f10d65a1f236479ebd1539d897fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a712acb399798cdb3a8aa47c1df779b') in 0.004683 seconds
-  Import took 0.032955 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000677 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.721 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.1 MB.
 System memory in use after: 86.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
-Total: 1.635700 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.062400 ms MarkObjects: 1.303300 ms  DeleteObjects: 0.092600 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 1.877500 ms (FindLiveObjects: 0.171200 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.532800 ms  DeleteObjects: 0.103900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 24.693364 seconds.
-  path: Assets/Word Heroes/Scripts/System/LevelManager.cs
-  artifactKey: Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/LevelManager.cs using Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46273de52b60a9775f1f45f22ebf328a') in 0.008076 seconds
-  Import took 0.016097 seconds .
+  Time since last request: 299.472970 seconds.
+  path: Assets/Word Heroes/Prefabs/Level List Page.prefab
+  artifactKey: Guid(a9c7709a55a86a64d90a0bcc008e2001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word Heroes/Prefabs/Level List Page.prefab using Guid(a9c7709a55a86a64d90a0bcc008e2001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007c21f63a208611d5fce40d94a950b1') in 0.034185 seconds
+  Import took 0.037082 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000711 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.713 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
-Total: 1.889600 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.556700 ms  DeleteObjects: 0.094800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001058 seconds.
+Registered in 0.000869 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.720 seconds
+- Completed reload, in  0.738 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 1.849000 ms (FindLiveObjects: 0.174400 ms CreateObjectMapping: 0.063400 ms MarkObjects: 1.486800 ms  DeleteObjects: 0.123200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000693 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 1.916700 ms (FindLiveObjects: 0.261400 ms CreateObjectMapping: 0.108600 ms MarkObjects: 1.443300 ms  DeleteObjects: 0.101600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.2 MB.
 System memory in use after: 86.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2330.
-Total: 1.690400 ms (FindLiveObjects: 0.163300 ms CreateObjectMapping: 0.056900 ms MarkObjects: 1.371400 ms  DeleteObjects: 0.097800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 477.094880 seconds.
-  path: Assets/Word Heroes/Scripts/System/LevelManager.cs
-  artifactKey: Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/LevelManager.cs using Guid(281bdcd1370a5ce478484271fdfd5871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ac07e55eb4b3d1009d12a51094d6cc') in 0.003438 seconds
-  Import took 0.021171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 86.828823 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
-  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcda23533f8702a5b8f826638387b64') in 0.005864 seconds
-  Import took 0.008486 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 1.814600 ms (FindLiveObjects: 0.165700 ms CreateObjectMapping: 0.064900 ms MarkObjects: 1.477500 ms  DeleteObjects: 0.105100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000728 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.761 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.2 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
-Total: 1.914900 ms (FindLiveObjects: 0.207900 ms CreateObjectMapping: 0.068900 ms MarkObjects: 1.537100 ms  DeleteObjects: 0.099600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000807 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.705 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.2 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
-Total: 1.781700 ms (FindLiveObjects: 0.165400 ms CreateObjectMapping: 0.055100 ms MarkObjects: 1.464600 ms  DeleteObjects: 0.095400 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 65.666751 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
-  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cd87caf899498241a2f759d484e2a8') in 0.003328 seconds
-  Import took 0.052566 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000739 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.716 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.2 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
-Total: 2.013500 ms (FindLiveObjects: 0.246800 ms CreateObjectMapping: 0.091900 ms MarkObjects: 1.567200 ms  DeleteObjects: 0.106500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 283.356495 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelObject.cs
-  artifactKey: Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelObject.cs using Guid(e81433a29a169d64dabf3207cb251eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208c9a62804ec3edc744730aa240ed9b') in 0.003258 seconds
-  Import took 0.006259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.506711 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668798378fc699cf7eb820b577405bd1') in 0.004969 seconds
-  Import took 0.007750 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001069 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.732 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.2 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
-Total: 1.757900 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.067700 ms MarkObjects: 1.413200 ms  DeleteObjects: 0.098600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000715 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.763 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.2 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
-Total: 1.763600 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.066800 ms MarkObjects: 1.421200 ms  DeleteObjects: 0.094600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.318231 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001012 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.003262 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005386 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000220 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016997 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000216 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002408 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012746 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015143 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000228 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014285 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002445 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014792 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000268 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014891 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000211 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013393 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002390 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015437 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002363 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013467 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000200 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013834 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002356 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013845 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012345 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014580 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000227 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012815 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000246 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002638 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012667 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000235 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002587 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014807 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012869 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000294 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.003368 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015704 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000217 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002421 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014232 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000221 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014372 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002328 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018933 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000223 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002474 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013838 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000255 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002847 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016017 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000260 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016633 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000212 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002353 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014112 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000265 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002560 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015505 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000260 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012763 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002383 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015917 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000219 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002368 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013283 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000230 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015316 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002508 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013660 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000221 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002446 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013669 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000204 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002314 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015997 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000277 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002523 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014243 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000209 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002346 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016356 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000217 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013305 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000303 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.003198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013424 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002480 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015891 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002428 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013033 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015937 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002304 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012875 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000269 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002890 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013442 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002295 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015500 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000204 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002397 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014042 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000201 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002887 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015019 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000291 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002696 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012786 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000323 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012792 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000271 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.003121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015942 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000214 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012861 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000231 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002707 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012859 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000225 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002425 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015210 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002383 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012878 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000219 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002346 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015688 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002427 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013610 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002391 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012558 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016156 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000208 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002343 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013199 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000257 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002699 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012940 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015096 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000206 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002296 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013130 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012864 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000210 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002363 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014816 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000203 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002344 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013324 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002651 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014055 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002566 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017339 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000298 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012096 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002296 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015339 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000256 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012795 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000216 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014154 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000207 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002366 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019036 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000252 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012400 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000215 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013657 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000220 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012320 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000239 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002481 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013902 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000205 seconds
-  ERROR: Build asset version error: assets/word heroes/scripts/system/selectlevelmanager.cs in SourceAssetDB has modification time of '2021-09-23T17:29:07.1611579Z' while content on disk has modification time of '2021-09-23T17:29:11.274736Z'
-  Import took 0.002321 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000776 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.745 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.3 MB.
-System memory in use after: 86.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
-Total: 1.874800 ms (FindLiveObjects: 0.176100 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.537800 ms  DeleteObjects: 0.099000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1003.970553 seconds.
-  path: Assets/Word Heroes/Scripts/System/SelectLevelManager.cs
-  artifactKey: Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Scripts/System/SelectLevelManager.cs using Guid(338681cb461d7d942a56b3eb1bc98a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2619a9c31453970212888af0943d82') in 0.003711 seconds
-  Import took 0.035705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.848477 seconds.
-  path: Assets/Word Heroes/Prefabs/Level.prefab
-  artifactKey: Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Prefabs/Level.prefab using Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761d9a975a39b14eb21e8c6b196a9d40') in 0.079457 seconds
-  Import took 0.104807 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001109 seconds.
+Registered in 0.000687 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -1380,82 +385,158 @@ Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.3 MB.
-System memory in use after: 86.3 MB.
+System memory in use before: 86.2 MB.
+System memory in use after: 86.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
-Total: 1.664600 ms (FindLiveObjects: 0.178200 ms CreateObjectMapping: 0.067500 ms MarkObjects: 1.325600 ms  DeleteObjects: 0.092300 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 1.918100 ms (FindLiveObjects: 0.185000 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.542700 ms  DeleteObjects: 0.112900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000690 seconds.
+Registered in 0.001119 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.744 seconds
+- Completed reload, in  0.870 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.3 MB.
-System memory in use after: 86.3 MB.
+System memory in use before: 86.2 MB.
+System memory in use after: 86.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
-Total: 6.559400 ms (FindLiveObjects: 0.508400 ms CreateObjectMapping: 0.252300 ms MarkObjects: 5.472900 ms  DeleteObjects: 0.322300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 297.929483 seconds.
-  path: Assets/Word Heroes/Prefabs/Level.prefab
-  artifactKey: Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Word Heroes/Prefabs/Level.prefab using Guid(e0f737a11ffb8b54eb953e715135d202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bbbe5661a0b33c48e18098174ccc7b') in 0.068278 seconds
-  Import took 0.090900 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.723800 ms (FindLiveObjects: 0.193600 ms CreateObjectMapping: 0.063100 ms MarkObjects: 2.328000 ms  DeleteObjects: 0.137400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000718 seconds.
+Registered in 0.000748 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.714 seconds
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 1.927500 ms (FindLiveObjects: 0.263400 ms CreateObjectMapping: 0.094900 ms MarkObjects: 1.461700 ms  DeleteObjects: 0.106200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000941 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.3 MB.
-System memory in use after: 86.3 MB.
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
-Total: 1.737900 ms (FindLiveObjects: 0.188200 ms CreateObjectMapping: 0.065300 ms MarkObjects: 1.390600 ms  DeleteObjects: 0.092500 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 1.697400 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.370000 ms  DeleteObjects: 0.094700 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000704 seconds.
+Registered in 0.001085 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.715 seconds
+- Completed reload, in  0.783 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.3 MB.
-System memory in use after: 86.3 MB.
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
-Total: 1.981300 ms (FindLiveObjects: 0.214600 ms CreateObjectMapping: 0.065300 ms MarkObjects: 1.605700 ms  DeleteObjects: 0.094900 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2332.
+Total: 2.046100 ms (FindLiveObjects: 0.265800 ms CreateObjectMapping: 0.105900 ms MarkObjects: 1.571900 ms  DeleteObjects: 0.101000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 1.770900 ms (FindLiveObjects: 0.187900 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.419100 ms  DeleteObjects: 0.095700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 2.210900 ms (FindLiveObjects: 0.270900 ms CreateObjectMapping: 0.120600 ms MarkObjects: 1.718500 ms  DeleteObjects: 0.099600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2344.
+Total: 2.140500 ms (FindLiveObjects: 0.304200 ms CreateObjectMapping: 0.117000 ms MarkObjects: 1.620800 ms  DeleteObjects: 0.097200 ms)
 
 ========================================================================
 Received Prepare
@@ -1464,10 +545,115 @@ Registered in 0.000674 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.468800 ms (FindLiveObjects: 0.304100 ms CreateObjectMapping: 0.153900 ms MarkObjects: 1.858400 ms  DeleteObjects: 0.151000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 1.794500 ms (FindLiveObjects: 0.170600 ms CreateObjectMapping: 0.064300 ms MarkObjects: 1.454300 ms  DeleteObjects: 0.104200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 1.698000 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.064300 ms MarkObjects: 1.370000 ms  DeleteObjects: 0.094100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 1.716000 ms (FindLiveObjects: 0.168400 ms CreateObjectMapping: 0.074900 ms MarkObjects: 1.375300 ms  DeleteObjects: 0.096400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 1.844800 ms (FindLiveObjects: 0.271900 ms CreateObjectMapping: 0.093300 ms MarkObjects: 1.382900 ms  DeleteObjects: 0.095400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.707 seconds
+- Completed reload, in  0.748 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -1475,48 +661,259 @@ Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.3 MB.
 System memory in use after: 86.3 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
-Total: 1.920600 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.541500 ms  DeleteObjects: 0.098100 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 1.909500 ms (FindLiveObjects: 0.207000 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.532700 ms  DeleteObjects: 0.105400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000714 seconds.
+Registered in 0.000709 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.733 seconds
+- Completed reload, in  0.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 2.105500 ms (FindLiveObjects: 0.319600 ms CreateObjectMapping: 0.142100 ms MarkObjects: 1.534300 ms  DeleteObjects: 0.107800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 1.712000 ms (FindLiveObjects: 0.179000 ms CreateObjectMapping: 0.068600 ms MarkObjects: 1.367800 ms  DeleteObjects: 0.095500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.3 MB.
 System memory in use after: 86.3 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2380.
-Total: 1.880500 ms (FindLiveObjects: 0.195800 ms CreateObjectMapping: 0.095000 ms MarkObjects: 1.493100 ms  DeleteObjects: 0.095800 ms)
+Total: 2.003200 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.538700 ms  DeleteObjects: 0.107400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000798 seconds.
+Registered in 0.000887 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.707 seconds
+- Completed reload, in  0.851 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.3 MB.
 System memory in use after: 86.3 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
-Total: 18.150500 ms (FindLiveObjects: 0.978600 ms CreateObjectMapping: 4.738300 ms MarkObjects: 12.291400 ms  DeleteObjects: 0.139400 ms)
+Total: 1.869600 ms (FindLiveObjects: 0.228000 ms CreateObjectMapping: 0.085000 ms MarkObjects: 1.455900 ms  DeleteObjects: 0.100000 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2388.
+Total: 2.029300 ms (FindLiveObjects: 0.199000 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.633400 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 2.258900 ms (FindLiveObjects: 0.317600 ms CreateObjectMapping: 0.076400 ms MarkObjects: 1.754500 ms  DeleteObjects: 0.109100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 2.173400 ms (FindLiveObjects: 0.224600 ms CreateObjectMapping: 0.072700 ms MarkObjects: 1.776900 ms  DeleteObjects: 0.097900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 1.713600 ms (FindLiveObjects: 0.177200 ms CreateObjectMapping: 0.069400 ms MarkObjects: 1.368600 ms  DeleteObjects: 0.097400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 1.822900 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.081300 ms MarkObjects: 1.418600 ms  DeleteObjects: 0.096700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001099 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.809 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 1.853600 ms (FindLiveObjects: 0.190000 ms CreateObjectMapping: 0.073500 ms MarkObjects: 1.477400 ms  DeleteObjects: 0.111400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000742 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.846 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 2.411600 ms (FindLiveObjects: 0.328000 ms CreateObjectMapping: 0.150500 ms MarkObjects: 1.830400 ms  DeleteObjects: 0.100900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000860 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2416.
+Total: 1.691900 ms (FindLiveObjects: 0.182700 ms CreateObjectMapping: 0.068100 ms MarkObjects: 1.337900 ms  DeleteObjects: 0.102300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

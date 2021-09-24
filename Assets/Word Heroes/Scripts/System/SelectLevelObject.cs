@@ -23,4 +23,9 @@ public class SelectLevelObject : MonoBehaviour
         levelID = _levelID;
         monsterName.text = _data.monsterName.ToUpper();
     }
+
+    public void GotoLevel()
+    {
+        LevelManager.instance.levelIDToLoad = levelID;
+    }
 }

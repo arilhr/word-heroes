@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 63e2f01f47072e74d89df95af91d8412, type: 3}
-  m_Name: test monster data
+  m_Name: Test Monster 1
   m_EditorClassIdentifier: 
   monsterName: plant monster
   monsterHealth: 5
